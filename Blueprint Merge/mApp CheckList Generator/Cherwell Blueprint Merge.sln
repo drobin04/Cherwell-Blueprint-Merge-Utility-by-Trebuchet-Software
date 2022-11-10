@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Blueprint Tools.vb", "Blueprint Tools.vb\Blueprint Tools.vb.vbproj", "{70957C5B-9E05-4A4A-B8CD-32249EE81B9D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BlueprintMerge", "BlueprintMerge\BlueprintMerge.vbproj", "{C2BC3BAD-CB44-4038-A5F4-6A682B3D253D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BlueprintDissector", "BlueprintDissector\BlueprintDissector.vbproj", "{85BC1059-FBDE-4334-A8DD-C05AD2A6FBB5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.MessageDialogs", "..\..\MessageDialogs Class library\DefEditSoftware.MessageDialogs\DefEditSoftware.MessageDialogs.vbproj", "{82BC4984-9490-44AC-A6E4-FB39310C80F6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.CSMConnectionPrompt", "..\..\..\Outsourced Work and Jobs\CSMConnectionPrompt Library\ClassLibrary1\CSMConnectionPrompt\DefEditSoftware.CSMConnectionPrompt.vbproj", "{E959C539-AFB9-47D7-A953-E7FE13FF8020}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.Encryption", "..\..\Class Libraries\DefEditSoftware.Encryption\DefEditSoftware.Encryption\DefEditSoftware.Encryption.vbproj", "{82EDD5FD-997C-466D-B2D6-6CCD0B370408}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class Libraries", "Class Libraries", "{4DE6AC6F-AD59-4531-9D63-1B4321147CC0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.Extensions", "..\..\Class Libraries\DefEditSoftware.Extensions\DefEditSoftware.Extensions\DefEditSoftware.Extensions.vbproj", "{C696EE8C-256F-4A9B-9118-C7C5736A8C7E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.EasyConfigFile", "..\..\Class Libraries\DefEditSoftware.EasyConfigFile\DefEditSoftware.EasyConfigFile\DefEditSoftware.EasyConfigFile.vbproj", "{227A22DE-0F68-49CB-99B5-5EF507B0481F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.CSMInstallationFinder", "..\..\Class Libraries\DefEditSoftware.CSMInstallationFinder\DefEditSoftware.CSMInstallationFinder\DefEditSoftware.CSMInstallationFinder.vbproj", "{06D58CDA-11DA-4F06-91D5-FF75C8908542}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "License Key Generator", "..\..\License Key Generator\License Key Generator\License Key Generator.vbproj", "{63F20B7D-7F04-49DD-8868-C3AF26A1C0FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installers", "Installers", "{D88BF0C0-0C37-4857-B72F-528BC439006C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CSM Blueprint Merge Installer", "..\CSM Blueprint Merge Installer\CSM Blueprint Merge Installer.vdproj", "{C5528FC5-B32F-4AD0-9E3C-660CD45A80A4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "License Key Generator Install", "..\License Key Generator Install\License Key Generator Install.vdproj", "{9BE1FA09-F1AD-49A6-A0B4-B97BE82565A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70957C5B-9E05-4A4A-B8CD-32249EE81B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70957C5B-9E05-4A4A-B8CD-32249EE81B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70957C5B-9E05-4A4A-B8CD-32249EE81B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70957C5B-9E05-4A4A-B8CD-32249EE81B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BC3BAD-CB44-4038-A5F4-6A682B3D253D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC3BAD-CB44-4038-A5F4-6A682B3D253D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC3BAD-CB44-4038-A5F4-6A682B3D253D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC3BAD-CB44-4038-A5F4-6A682B3D253D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85BC1059-FBDE-4334-A8DD-C05AD2A6FBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BC1059-FBDE-4334-A8DD-C05AD2A6FBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BC1059-FBDE-4334-A8DD-C05AD2A6FBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BC1059-FBDE-4334-A8DD-C05AD2A6FBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BC4984-9490-44AC-A6E4-FB39310C80F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BC4984-9490-44AC-A6E4-FB39310C80F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BC4984-9490-44AC-A6E4-FB39310C80F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BC4984-9490-44AC-A6E4-FB39310C80F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E959C539-AFB9-47D7-A953-E7FE13FF8020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E959C539-AFB9-47D7-A953-E7FE13FF8020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E959C539-AFB9-47D7-A953-E7FE13FF8020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E959C539-AFB9-47D7-A953-E7FE13FF8020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EDD5FD-997C-466D-B2D6-6CCD0B370408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EDD5FD-997C-466D-B2D6-6CCD0B370408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EDD5FD-997C-466D-B2D6-6CCD0B370408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EDD5FD-997C-466D-B2D6-6CCD0B370408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C696EE8C-256F-4A9B-9118-C7C5736A8C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C696EE8C-256F-4A9B-9118-C7C5736A8C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C696EE8C-256F-4A9B-9118-C7C5736A8C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C696EE8C-256F-4A9B-9118-C7C5736A8C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D58CDA-11DA-4F06-91D5-FF75C8908542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D58CDA-11DA-4F06-91D5-FF75C8908542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D58CDA-11DA-4F06-91D5-FF75C8908542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D58CDA-11DA-4F06-91D5-FF75C8908542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F20B7D-7F04-49DD-8868-C3AF26A1C0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F20B7D-7F04-49DD-8868-C3AF26A1C0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F20B7D-7F04-49DD-8868-C3AF26A1C0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F20B7D-7F04-49DD-8868-C3AF26A1C0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5528FC5-B32F-4AD0-9E3C-660CD45A80A4}.Debug|Any CPU.ActiveCfg = Debug
+		{C5528FC5-B32F-4AD0-9E3C-660CD45A80A4}.Release|Any CPU.ActiveCfg = Release
+		{9BE1FA09-F1AD-49A6-A0B4-B97BE82565A2}.Debug|Any CPU.ActiveCfg = Debug
+		{9BE1FA09-F1AD-49A6-A0B4-B97BE82565A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70957C5B-9E05-4A4A-B8CD-32249EE81B9D} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{82BC4984-9490-44AC-A6E4-FB39310C80F6} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{E959C539-AFB9-47D7-A953-E7FE13FF8020} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{82EDD5FD-997C-466D-B2D6-6CCD0B370408} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{C696EE8C-256F-4A9B-9118-C7C5736A8C7E} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{06D58CDA-11DA-4F06-91D5-FF75C8908542} = {4DE6AC6F-AD59-4531-9D63-1B4321147CC0}
+		{C5528FC5-B32F-4AD0-9E3C-660CD45A80A4} = {D88BF0C0-0C37-4857-B72F-528BC439006C}
+		{9BE1FA09-F1AD-49A6-A0B4-B97BE82565A2} = {D88BF0C0-0C37-4857-B72F-528BC439006C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C653A61-7418-46D4-A648-DCCD544C93B6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\TestForm.exe
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\TestForm.pdb
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\TestForm.xml
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\CSMConnectionPrompt.dll
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\CSMConnectionPrompt.pdb
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\bin\Debug\CSMConnectionPrompt.xml
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.vbprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.Resources.resources
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.vbproj.GenerateResource.cache
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.vbproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.vbproj.CopyComplete
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.exe
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.xml
+C:\Users\Marcus\source\repos\ClassLibrary1\TestForm\obj\Debug\TestForm.pdb

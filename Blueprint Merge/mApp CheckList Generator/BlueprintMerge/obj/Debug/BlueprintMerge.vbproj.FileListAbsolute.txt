@@ -1,0 +1,141 @@
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe.config
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.pdb
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.xml
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.pdb
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.xml
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.xml
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbprojResolveAssemblyReference.cache
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.BlueprintMerge.resources
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.Resources.resources
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.GenerateResource.Cache
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.exe
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.xml
+C:\Users\dude1\OneDrive\DefEdit Software\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.pdb
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe.config
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.pdb
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.xml
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.pdb
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.xml
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll.config
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.xml
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbprojResolveAssemblyReference.cache
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.BlueprintMerge.resources
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.Resources.resources
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.GenerateResource.Cache
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.CoreCompileInputs.cache
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.exe
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.xml
+C:\Users\wieget\Documents\Visual Studio 2017\Projects\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.pdb
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe.config
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.pdb
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.xml
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.pdb
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.xml
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll.config
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.xml
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll.config
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbprojResolveAssemblyReference.cache
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.BlueprintMerge.resources
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.Resources.resources
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.GenerateResource.Cache
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.CoreCompileInputs.cache
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.exe
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.xml
+D:\OneDrive\DefEditSoftware\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Resources\Button-Delete-icon.png
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Resources\Up Arrow.png
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Resources\Down Arrow.png
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe.config
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMConnectionPrompt.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMInstallationFinder.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.EasyConfigFile.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Extensions.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.MessageDialogs.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Encryption.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMConnectionPrompt.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMConnectionPrompt.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMInstallationFinder.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMInstallationFinder.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.EasyConfigFile.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.EasyConfigFile.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Extensions.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Extensions.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.MessageDialogs.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.MessageDialogs.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll.config
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Encryption.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Encryption.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbprojAssemblyReference.cache
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.BlueprintMerge.resources
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.Resources.resources
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.GenerateResource.cache
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.CoreCompileInputs.cache
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.CopyComplete
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.exe
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.xml
+C:\Users\Doug\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Resources\Button-Delete-icon.png
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Resources\Up Arrow.png
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Resources\Down Arrow.png
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe.config
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.exe
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\BlueprintMerge.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMConnectionPrompt.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMInstallationFinder.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.EasyConfigFile.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Extensions.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.MessageDialogs.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Encryption.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMConnectionPrompt.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMConnectionPrompt.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMInstallationFinder.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.CSMInstallationFinder.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.EasyConfigFile.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.EasyConfigFile.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Extensions.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Extensions.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.MessageDialogs.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.MessageDialogs.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Blueprint Tools.vb.dll.config
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Encryption.pdb
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\DefEditSoftware.Encryption.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbprojAssemblyReference.cache
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.BlueprintMerge.resources
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.Resources.resources
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.GenerateResource.cache
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.CoreCompileInputs.cache
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.vbproj.CopyComplete
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.exe
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.xml
+C:\Users\dude1\OneDrive\DefEditSoftware\VB Projects\Blueprint Merge\mApp CheckList Generator\BlueprintMerge\obj\Debug\BlueprintMerge.pdb

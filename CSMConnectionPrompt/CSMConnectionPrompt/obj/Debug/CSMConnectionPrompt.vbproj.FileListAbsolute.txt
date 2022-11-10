@@ -1,0 +1,10 @@
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\bin\Debug\CSMConnectionPrompt.dll
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\bin\Debug\CSMConnectionPrompt.pdb
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\bin\Debug\CSMConnectionPrompt.xml
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.Resources.resources
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.Prompt.resources
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.vbproj.GenerateResource.cache
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.vbproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.dll
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.xml
+C:\Users\Marcus\source\repos\ClassLibrary1\CSMConnectionPrompt\obj\Debug\CSMConnectionPrompt.pdb

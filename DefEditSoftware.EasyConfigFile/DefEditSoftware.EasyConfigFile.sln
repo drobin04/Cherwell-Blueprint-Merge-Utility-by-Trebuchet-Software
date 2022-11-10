@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DefEditSoftware.EasyConfigFile", "DefEditSoftware.EasyConfigFile\DefEditSoftware.EasyConfigFile.vbproj", "{227A22DE-0F68-49CB-99B5-5EF507B0481F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227A22DE-0F68-49CB-99B5-5EF507B0481F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C863C23-90D1-4588-B1A5-F7360F9C11AF}
+	EndGlobalSection
+EndGlobal
